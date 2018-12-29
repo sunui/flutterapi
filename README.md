@@ -1,2 +1,141 @@
 # flutterapi
 ALL examples of Flutter API
+
+
+
+此项目对所有API做中文简介和示例。
+此处的API参考涵盖了由Flutter SDK导出的所有库。
+官方API文档参考 https://docs.flutter.io
+
+## Contents
+
+- [LIBRARIES](./docs/LIBRARIES.md)
+    - animation
+    - cupertino
+    - foundation
+    - gestures
+    - material
+    - painting
+    - physics
+    - rendering
+    - scheduler
+    - semantics
+    - services
+    - widgets
+- [DART](./docs/DART.md)
+    - dart:ui
+- [CORE](./docs/CORE.md)
+    - dart:async
+    - dart:collection
+    - dart:convert
+    - dart:core
+    - dart:developer
+    - dart:math
+    - dart:typed_data
+- [VM](./docs/VM.md)
+    - dart:io
+    - dart:isolate
+- [PLATFORM_INTEGRATION](./docs/PLATFORM_INTEGRATION.md)
+    - Android
+    - iOS
+- [FLUTTER_TEST](./docs/FLUTTER_TEST.md)
+    - flutter_test
+- [FLUTTER_DRIVER](./docs/FLUTTER_DRIVER.md)
+    - flutter_driver
+    - flutter_driver_extension
+- [FLUTTER_LOCALIZATIONS](./docs/FLUTTER_LOCALIZATIONS.md)
+    - flutter_localizations
+- [ASYNC](./docs/ASYNC.md)
+    - async
+- [BOOLEAN_SELECTOR](./docs/BOOLEAN_SELECTOR.md)
+    - boolean_selector
+- [CHARCODE](./docs/CHARCODE.md)
+    - charcode
+    - charcode.ascii.dollar_lowercase
+    - charcode.htmlentity.dollar_lowercase
+- [COLLECTION](./docs/COLLECTION.md)
+    - collection
+    - ~~dart.pkg.collection.algorithms~~
+    - ~~dart.pkg.collection.equality~~
+    - ~~dart.pkg.collection.iterable_zip~~
+    - ~~dart.pkg.collection.priority_queue~~
+    - ~~dart.pkg.collection.wrappers~~
+- [CONVERT](./docs/CONVERT.md)
+    - convert
+- [CRYPTO](./docs/CRYPTO.md)
+    - crypto
+- [FILE](./docs/FILE.md)
+    - chroot
+    - file
+    - local
+    - memory
+    - record_replay
+- [INTL](./docs/INTL.md)
+    - date_symbol_data_custom
+    - date_symbol_data_file
+    - date_symbol_data_http_request
+    - date_symbol_data_local
+    - date_symbols
+    - date_time_patterns
+    - intl
+    - intl_standalone
+    - message_lookup_by_library
+    - number_symbol_data
+    - number_symbols
+- [JSON_RPC_2](./docs/JSON_RPC_2.md)
+    - error_code
+    - json_rpc_2
+- [MATCHER](./docs/MATCHER.md)
+    - matcher
+- [META](./docs/META.md)
+    - meta
+    - meta_dart2js
+- [PATH](./docs/PATH.md)
+    - path
+- [PLATFORM](./docs/PLATFORM.md)
+    - platform
+- [PROCESS](./docs/PROCESS.md)
+    - process
+    - record_replay
+- [PUB_SEMVER](./docs/PUB_SEMVER.md)
+    - pub_semver
+- [QUIVER](./docs/QUIVER.md)
+    - quiver.async
+    - quiver.cache
+    - quiver.check
+    - quiver.collection
+    - quiver.core
+    - quiver.iterables
+    - quiver.pattern
+    - quiver.strings
+    - quiver.testing.async
+    - quiver.testing.equality
+    - quiver.testing.runtime
+    - quiver.testing.time
+    - quiver.time
+- [SOURCE_SPAN](./docs/SOURCE_SPAN.md)
+    - source_span
+- [STACK_TRACE](./docs/STACK_TRACE.md)
+    - stack_trace
+- [STREAM_CHANNEL](./docs/STREAM_CHANNEL.md)
+    - stream_channel
+- [STRING_SCANNER](./docs/STRING_SCANNER.md)
+    - string_scanner
+- [TERM_GLYPH](./docs/TERM_GLYPH.md)
+    - term_glyph
+- [TEST_API](./docs/TEST_API.md)
+    - test_api
+- [TYPED_DATA](./docs/TYPED_DATA.md)
+    - typed_data
+    - typed_data.typed_buffers
+- [VECTOR_MATH](./docs/VECTOR_MATH.md)
+    - hash
+    - vector_math
+    - vector_math_64
+    - vector_math_geometry
+    - vector_math_lists
+    - vector_math_operations
+- [WEB_SOCKET_CHANNEL](./docs/WEB_SOCKET_CHANNEL.md)
+    - web_socket_channel
+    - web_socket_channel.io
+    - web_socket_channel.status
